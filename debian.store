@@ -1,1 +1,1 @@
-{"base": "4ecd838", "parent": "debian/rolling/rplidar_ros", "previous": "dada11b", "trim": "", "trimbase": ""}
+{"base": "d0be904", "parent": "debian/humble/rplidar_ros", "previous": "5f3f9ad", "trim": "", "trimbase": ""}
